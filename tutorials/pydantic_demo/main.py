@@ -155,7 +155,6 @@ def settings_management_example():
 
 
 if __name__ == "__main__":
-
     # Creating models from: explict values, dict
     models_example()
 
